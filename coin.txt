@@ -1,0 +1,5 @@
+1.tether
+2.dai
+3.bianance
+4.usd coin
+5.trueusd
