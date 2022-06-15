@@ -3,3 +3,8 @@
 3.bianance
 4.usd coin
 5.trueusd
+6.pax dollar
+7.terrakrw
+8.doigix gold
+9.gold coin
+10.reserve rights
